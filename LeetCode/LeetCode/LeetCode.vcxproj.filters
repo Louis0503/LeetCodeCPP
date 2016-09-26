@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="原始程式檔\DataStructure">
+      <UniqueIdentifier>{d8dbe02b-b664-42a9-b9a0-96b080b291fa}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -29,7 +32,10 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>原始程式檔</Filter>
     </ClCompile>
-    <ClCompile Include="LeetCode.cpp">
+    <ClCompile Include="BubbleSort.cpp">
+      <Filter>原始程式檔\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="LeepCodecpp.cpp">
       <Filter>原始程式檔</Filter>
     </ClCompile>
   </ItemGroup>
